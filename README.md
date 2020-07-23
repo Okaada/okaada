@@ -1,16 +1,30 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
 
-<!--
-**Okaada/okaada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# :pushpin: Hi there!
+##  I'm Ravel Sbrissa Okada 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Software Developer and Cyber Security Student :computer:
+- Working at Programmer's Beyond IT
+- Brazillian
+
+## :triangular_flag_on_post: Technical skills
+
+- .NET, ASP.NET
+- Angular
+- Javascript, Typescript
+- Docker, Git, SQL, SOLID, DDD, Scrum
+
+## 🌎 Languagues
+
+
+- Portuguese
+- English
+
+## :eye_speech_bubble: Contacts 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Okaada)](https://github.com/Okaada)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/ravel-okada-36317616b/)](https://www.linkedin.com/in/ravel-okada-36317616b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ravelokada@gmail.com)](mailto:ravelokada@gmail.com)
+
+### Thanks!
