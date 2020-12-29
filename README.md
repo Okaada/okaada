@@ -4,7 +4,7 @@
 # :pushpin: Hi there!
 ##  I'm Ravel Sbrissa Okada 
 
-- Software Developer and Cyber Security Student :computer:
+- Software Developer and Cyber Security Student in my free time :computer:
 - Working at Programmer's Beyond IT
 - Brazillian
 
