@@ -5,7 +5,7 @@
 ##  I'm Ravel Sbrissa Okada 
 
 - Software Developer and Cyber Security Student in my free time :computer:
-- Working at Programmer's Beyond IT
+- Working at Itaú Unibanco
 - Brazillian
 
 ## :triangular_flag_on_post: Technical skills
