@@ -39,7 +39,6 @@ Currently working at **Itaú Unibanco**, where I contribute to the **electronic 
 
 - **Terraform Associate**    
 - **Azure Fundamentals**
-- 
 ---
 
 ## 🌎 Languages  
