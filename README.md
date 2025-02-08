@@ -1,5 +1,3 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif">
-
 # :wave: Hi there! 
 ## I'm Ravel Sbrissa Okada  
 
