@@ -43,8 +43,8 @@ Currently working at **Itaú Unibanco**, where I contribute to the **electronic 
 
 ## 🌎 Languages  
 
-- 🇧🇷 Portuguese (Native)  
-- 🇬🇧 English (Advanced)  
+- Portuguese (Native)  
+- English (Advanced)  
 
 ---
 
