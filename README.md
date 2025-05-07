@@ -3,7 +3,7 @@
 
 🚀 **Software Engineer | DevOps | Cybersecurity Enthusiast**  
 
-Currently working at **Itaú Unibanco**, where I contribute to the **electronic trading sector**. Passionate about software architecture, cloud computing, and security, always seeking to enhance performance, scalability, and security in modern applications.
+Currently working at **MedCof**, where I contribute to the **electronic trading sector**. Passionate about software architecture, cloud computing, and security, always seeking to enhance performance, scalability, and security in modern applications.
 
 💡 **Tech enthusiast exploring offensive cybersecurity** in my post-graduate studies while preparing for AWS certifications.
 
