@@ -3,7 +3,7 @@
 
 🚀 **Software Engineer | DevOps | Cybersecurity Enthusiast**  
 
-Currently working at **MedCof**, where I contribute to the **electronic trading sector**. Passionate about software architecture, cloud computing, and security, always seeking to enhance performance, scalability, and security in modern applications.
+Currently working at **MedCof**. Passionate about software architecture, cloud computing, and security, always seeking to enhance performance, scalability, and security in modern applications.
 
 💡 **Tech enthusiast exploring offensive cybersecurity** in my post-graduate studies while preparing for AWS certifications.
 
@@ -15,6 +15,7 @@ Currently working at **MedCof**, where I contribute to the **electronic trading 
   ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
 
 - **Cloud & DevOps:**  
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
